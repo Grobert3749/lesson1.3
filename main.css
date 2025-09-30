@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 10px;
+}
+.contanier {
+    width: 100%;
+    max-width: 1283px;
+    margin: 
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+ul li {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+h1 {
+  text-align: center;
+  font-size: 64px;
+  margin: 130px 0;
+}
+
+.war {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 250px;
+}
+.car {
+  background-color: #ff0000;
+  width: 558px;
+  height: 452px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 64px;
+  text-transform: capitalize;
+}
